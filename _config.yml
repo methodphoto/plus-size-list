@@ -1,8 +1,25 @@
 title: Plus Size Master List
 description: Plus Size Fashion Links
 theme: just-the-docs
+search_enabled: true
+url: https://methodphoto.github.io/plus-size-list/
+email: richard@method.co.uk
+baseurl: "/" # the subpath of your site, e.g. /blog
+heading_anchors: false
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
 
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
