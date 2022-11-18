@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Sex/Fetish Wear
-parent: Underwear/Lingerie
 nav_order: 70
 --- 
 
