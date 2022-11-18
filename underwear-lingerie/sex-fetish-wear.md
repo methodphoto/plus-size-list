@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sex/Fetish Wear
-parent: underwear-lingerie
+parent: Underwear/Lingerie
 --- 
 
 # {{page.title}}
