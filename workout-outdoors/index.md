@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Workout/Outdoorsy Clothing
-nav_order: 7
+nav_order: 80
 ---
 
 # {{page.title}}

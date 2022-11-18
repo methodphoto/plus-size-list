@@ -1,7 +1,7 @@
 ---
 layout: default
 title: High street/Fast fashion
-nav_order: 3
+nav_order: 30
 ---
 
 # {{page.title}}
