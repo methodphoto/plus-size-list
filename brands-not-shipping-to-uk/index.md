@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Brands that do not ship to UK 
-nav_order: 8
+nav_order: 90
 ---
 
 # {{page.title}}

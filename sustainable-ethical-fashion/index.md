@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sustainable/Ethical Fashion
-nav_order: 2
+nav_order: 20
 ---
 
 # {{page.title}}
@@ -144,11 +144,11 @@ A * indicates a brand that does international shipping - if you are not UK based
 
 [Ace&Jig](https://aceandjig.com/)  (XXS-4XL)
 
-[Lirika Matoshi]
+Lirika Matoshi
 
 [Vestige Story](https://www.vestigestory.com/) (XS-4XL)
 
-[Maya Kern] (A-B) The sizing spans from 25”-48” waist, as the skirts are very stretchy. The pockets 
+Maya Kern (A-B) The sizing spans from 25”-48” waist, as the skirts are very stretchy. The pockets 
 
 
 [Omi Na Na](https://ominana.com/)* (a stockist so sizes vary depending on designer. These are the plus options)
